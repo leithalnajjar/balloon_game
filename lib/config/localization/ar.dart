@@ -1,0 +1,22 @@
+const Map<String, String> ar = {
+  "Cancel": "إلغاء",
+  "Confirm": "تأكيد",
+  "Are you sure?": "هل أنت متأكد؟",
+  "Loading ...": "جارٍ التحميل ...",
+  "This field is required": "هذا الحقل مطلوب",
+  "Please enter valid email": "يرجى إدخال بريد إلكتروني صالح",
+  "Password must be at least 8 characters long, include one uppercase letter, one lowercase letter, one number, and one special symbol (@, \$, !, %, *, ?, &).":
+  "يجب أن تكون كلمة المرور مكونة من 8 أحرف على الأقل، وتحتوي على حرف كبير واحد، وحرف صغير واحد، ورقم واحد، ورمز خاص واحد (@، \$، !، %، *، ؟، &).",
+  "Password does not match": "كلمة المرور غير متطابقة",
+  "Must be greater than or equal to": "يجب أن يكون أكبر من أو يساوي",
+  "Must be less than or equal to": "يجب أن يكون أقل من أو يساوي",
+  "Please collect": "يرجى جمع",
+  "letters": "حروف",
+  "Start": "ابدأ",
+  "Collected": "تم جمع",
+  "Play again": "العب مرة أخرى",
+  "You lost all lives!": "لقد خسرت جميع الأرواح!",
+  "Game over": "انتهت اللعبة",
+  "Congratulations!": "مبروك!",
+  "You collected": "لقد جمعت",
+};
